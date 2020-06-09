@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+@media (max-width : 1180px){
+	
+	#images {
+		display: none;
+	}
+	
+}
+
+@media (min-width : 1180px){
+
+	#images {
+		position:absolute;
+		padding:0;
+		margin:0;
+		left:70%;
+		top:-10%;
+		box-shadow:5px -5px 10px #525252;
+}
+
+}

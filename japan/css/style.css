@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#CDD1E8;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:22px;
+	text-shadow:2px 2px rgba(255,255,255,0.2);
+}
+
+img#japan {
+	display:block;
+	margin:auto;	
+}
+
+#title {
+	font-size:30px;
+	font-weight:bold;
+	text-shadow:3px 3px rgba(0,0,0,0.2);
+}
+
+.floatleft {
+	max-width:100%;
+	height:auto;
+	float:left;
+	clear:both;
+	margin-right:20px;
+	margin-bottom:20px;
+}
+
+img.floatleft {
+	display:block;
+	box-shadow:10px 10px 5px rgba(0,0,0,0.5);
+}
+
+
+.floatright {
+	float:right;
+}
+
