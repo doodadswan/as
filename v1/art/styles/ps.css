@@ -1,0 +1,24 @@
+
+#gallery {
+	clear:both;
+	width:940px;
+	margin-left:30px;
+}
+
+#gallery ul {
+	padding-top:20px;
+}
+
+#gallery li {
+	display:inline;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+#gallery>li.bottom {
+	margin-bottom:10px;
+}
+
+img {
+	padding-bottom:20px;
+}

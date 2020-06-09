@@ -1,0 +1,36 @@
+
+#artistsIndex {
+	margin-left:125px;
+	padding-bottom:10px;
+}
+
+#artistsIndex li {
+	display:inline;
+	padding-left:5px;
+	padding-right:5px;
+}
+
+#vad {
+	line-height:1.25em;
+	display:block;
+}
+
+#vad td {
+	text-align:center;
+	padding-bottom:10px;
+}
+
+#vad th {
+	background-color:#BBB;
+	padding:5px;
+}
+
+.spacer {
+	display:block;
+	margin-bottom:-10px;
+}
+
+table#vad tr th {
+	width:16.67%
+}
+

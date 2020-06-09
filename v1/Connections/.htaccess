@@ -1,0 +1,5 @@
+authtype basic
+authgroupfile /dev/null
+authuserfile /home/content/d/o/o/doodadswan/htconfig/.htpassword.ghtpassword
+authname "Secure Area"
+require user doodadswan

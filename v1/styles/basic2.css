@@ -1,0 +1,14 @@
+
+#container {
+	width:850px;
+	margin:0 auto;
+}
+
+#top-text {
+	float:left;
+	width:400px;
+}
+
+#skullfudge {
+	float:right;
+}
