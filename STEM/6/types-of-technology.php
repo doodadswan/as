@@ -22,7 +22,10 @@
     </nav>
   	<section>
 		<h1>Energy and Power</h1>
-		<img src="images/technology-types/energy-and-power-technology.jpg" alt="Energy and Power Technology" id="small" />
+		<div id="small">
+			<img src="images/technology-types/energy.power.jpg" alt="Energy and Power Technology" />
+			<p id="smalltext">CC SA - Kim Hansen</p>
+		</div>
 		<ul>
 		<li>Technology that deals with electricity and power that makes things run</li>    
 		<li>Many forms of energy, from gravitational to solar and sound</li>
@@ -79,7 +82,6 @@
 		<li>Includes all modes of transport, from land to air and beyond</li>
 		<li>Transportation technology is constantly innovating</li>
 		</ul>
-		<p id="smalltext">* all images are licensed using creative commons</p>
 	</section>
 	<footer>
 		<p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
