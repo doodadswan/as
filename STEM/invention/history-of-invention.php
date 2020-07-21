@@ -131,37 +131,35 @@
        	  </li>
       </ul>
     </section>
-    
- <section>
-   	<h1>The Assembly Line</h1>
-      <ul>
-       	  <li>
-       	    <div>Attributed to Ransom Olds, owner of Oldsmobile and later perfected by Henry Ford, founder of Ford Motors.</div>
-       	  </li>
-       	  <li>
-       	    <div>More than any other item on the list, assembly lines have created the most sociological problems.  Workers have often been taken advantage of, and injuries have been a big problem with assembly lines.</div>
-       	  </li>
-      </ul>
-    </section>
-    
-  <section>
-   	<h1>Internet</h1>
-      <ul>
-       	  <li>
-       	    <div>Developed in the 1960’s.</div>
-       	  </li>
-       	  <li>
-       	    <div>NOT TO BE CONFUSED WITH THE WORLD WIDE WEB!</div>
-       	  </li>
-       	  <li>
-       	    <div>61% of the world does not even use the Internet.</div>
-       	  </li>
-       	  <li>
-       	    <div>Developed by DARPA, a branch of the Department of Defense.</div>
-       	  </li>
-      </ul>
-    </section>
-  <section>
+ 	<section>
+		<h1>The Assembly Line</h1>
+		  <ul>
+			  <li>
+				<div>Attributed to Ransom Olds, owner of Oldsmobile and later perfected by Henry Ford, founder of Ford Motors.</div>
+			  </li>
+			  <li>
+				<div>More than any other item on the list, assembly lines have created the most sociological problems.  Workers have often been taken advantage of, and injuries have been a big problem with assembly lines.</div>
+			  </li>
+		  </ul>
+	</section>
+ 	<section>
+		<h1>Internet</h1>
+		  <ul>
+			  <li>
+				<div>Developed in the 1960’s.</div>
+			  </li>
+			  <li>
+				<div>NOT TO BE CONFUSED WITH THE WORLD WIDE WEB!</div>
+			  </li>
+			  <li>
+				<div>61% of the world does not even use the Internet.</div>
+			  </li>
+			  <li>
+				<div>Developed by DARPA, a branch of the Department of Defense.</div>
+			  </li>
+		  </ul>
+	</section>
+  	<section>
    	<h1>In Closing</h1>
    	<p>Technologies change quickly. For example, when Mr. Swan was in middle school, the following technology did not exist:</p>
    	<ul>
@@ -175,10 +173,7 @@
    	  </ul>
    	</ul>
   </section>
-
-<footer>
-  <p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
-
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <?php require_once('../../google.analytics.php'); ?>

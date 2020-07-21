@@ -30,8 +30,8 @@
       <h3><a href="http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1427644893&amp;sr=1-1&amp;keywords=steve+jobs" target="_blank">Steve Jobs</a></h3>
     </section>
 <footer>
-	<p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
-</footer>
+		<p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
+
 </div>
 </body>
 <!--Typekit Begins-->

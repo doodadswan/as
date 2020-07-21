@@ -33,9 +33,7 @@
 		<h2>Abstraction (Computer Science)</h2>
 		<p>Abstraction is the process of seperating ideas from specific instances of those ideas at work. Learn more <a href="http://en.wikipedia.org/wiki/Abstraction_(computer_science)" target="_blank">here</a>.</p>
 	</aside>
-	<footer>
-		<p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
-	</footer>
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <?php require_once('../../google.analytics.php'); ?>

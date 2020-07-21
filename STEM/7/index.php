@@ -22,11 +22,10 @@
 	</nav>
 	<section>
 		<h1>7th Grade Curriculum</h1>
-		<p>Intro to Technology — Rules/Procedures</p>
-		<p><a href="../invention/history-of-invention.php">The History of Invention</a></p>
 		<p><a href="../8/internet-safety-expectations.php">Internet Safety and Expectations</a></p>
+		<p><a href="../invention/history-of-invention.php">The History of Invention</a></p>
 		<p><a href="elements-and-principles-design.php">Designer</a></p>
-		<p>Intro to Engineering Design Process    </p>
+		<p><a href="../edp/Swan-EDP-HyperDoc.pdf" target="_blank">Intro to Engineering Design Process </a> </p>
 		<p><a href="../innovation/innovation-one.php">Innovation Project</a></p>
 		<p><a href="pixlr.php">PIXLR</a></p>
 		<p><a href="../solidworks/index.php">SolidWorks and Computer Aided Design</a></p>
@@ -36,10 +35,10 @@
 		<p>Various Hand-On Challenges</p>
 	</section>
 	<aside>
-		<h2>LINUX</h2>
+	  <h2>LINUX</h2>
 		<p>LINUX is a very powerful operating system. In fact, most servers run on top of LINUX. Distrowatch is a website devoted to watching and spreading the different distributions of LINUX throughout the world. A distribution is simply just someone's different version of LINUX. You can check out the website <a href="http://distrowatch.com/" target="_blank">here</a>, <em>but please BE VERY CAREFUL if downloading any of these versions of LINUX, because if you do not know how to use LINUX properly, you can shut down your system! As a matter of fact,<strong> get parental permission before attempting to download LINUX!!</strong></em></p>
 	</aside>
-	<footer><p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <!--Typekit Begin-->

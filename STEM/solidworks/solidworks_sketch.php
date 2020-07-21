@@ -43,8 +43,7 @@
       <h2>Engineering Design Process</h2>
       <p>We will be using the EDP a lot in    this class, so study, absorb it, become one with it. Click here to study the EDP more in detail.</p>
     </aside>
-  <footer><p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a> and <a href="http://www.geminigraphix.com" target="_blank">GeminiGraphix</a></p></footer>
-
+ 	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <!--Typekit Begin-->

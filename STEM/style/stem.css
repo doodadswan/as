@@ -11,6 +11,8 @@ body {
 	text-align:center;
 	line-height:1.25;
 	color:white;
+	background-image:url(../images/bw-iso.png);
+	background-repeat:repeat;
 }
 
 /* GLOBALS */
@@ -121,7 +123,6 @@ section	{
 	-webkit-border-radius: 15px;
 	-moz-border-radius: 15px;
 	border-radius: 15px;
-	opacity: 0.8;
 	margin-bottom: 1%;
 }
 
@@ -164,7 +165,9 @@ footer p {
 }
 
 #smalltext {
-	font-size:x-small;
+	font-size:small;
+	margin-left:1em;
+	margin-top:-0.1em;
 }
 
 /* Images and Video */
@@ -177,12 +180,22 @@ footer p {
 		margin-top:1%;
 		margin-right:2%;
 		padding:10px;
-		border: 2px solid gray;
-		-moz-border-radius: 30px;
-		-khtml-border-radius: 30px;
-		-webkit-border-radius: 30px;
-		border-radius: 30px;
 		box-shadow:7px 7px 7px rgba(0,0,0,0.5);
+}
+
+#small img {
+		width:230px;
+		margin-top:-3em;
+		-moz-border-radius:5px;
+		-khtml-border-radius:5px;
+		-webkit-border-radius:5px;
+		border-radius:5px;
+		border:medium solid white;
+}
+
+#small p {
+		text-align: right;
+		margin-right: 1em;
 }
 
 #ep {

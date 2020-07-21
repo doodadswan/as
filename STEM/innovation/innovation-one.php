@@ -39,7 +39,7 @@
 		<h2>The Homebrew Club</h2>
 		<p>The Homebrew Club was a hobbyist club set in the 1970's and 1980's. Some of their members were pioneers in the early Information Technology sector. The club has been featured in numerous movies and books. Click on the link <a href="http://en.wikipedia.org/wiki/Homebrew_Computer_Club" target="_blank">here</a> if you would like to learn more. </p>
 	</aside>
-	<footer><p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <script src="//use.typekit.net/rvy7xig.js"></script>

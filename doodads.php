@@ -31,6 +31,7 @@ function googleTranslateElementInit() {
 <nav role="navigation">
 	<ul>
     	<li><a href="http://alexswan.com/STEM/" target="_blank">Mr. Swan's STEAM Machine</a></li>
+    	<li><a href="http://www.aswan3.weebly.com" target="_blank">My Educator Online Portfolio</a></li>
     	<li><a href="http://www.youtube.com/watch?v=cyPaDOGMYB8" target="_blank">DaDa Puppet Show</a></li>
 		<li><a href="japan/index.php" target="_blank">Interactive Japanese Culture Web Project</a></li>
     	<li><a href="retired.php">More of my artwork...</a></li>

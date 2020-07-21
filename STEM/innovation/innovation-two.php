@@ -28,7 +28,7 @@
 		<h2>BMW Art Cars</h2>
 		<p>The car company BMW has commisioned famous artists to collaborate with them in past, to design some of their BMW's. Check out some of the past examples <a href="http://www.bmwdrives.com/bmw-artcars.php" target="_blank">here</a>.</p>
 	</aside>
-	<footer><p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <script src="//use.typekit.net/rvy7xig.js"></script>

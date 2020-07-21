@@ -39,7 +39,10 @@
 	</aside>
 	<section>
 		<h1>Biotechnology</h1>
-		<img src="images/technology-types/biotechnology.jpg" alt="Biotechnology" id="small" />
+		<div id="small">	
+		<img src="images/technology-types/bio.jpg" alt="Biotechnology" />
+		<p id="smalltext">CC0 - Public Domain</p>
+		</div>
 		<ul>
 		<li>Technology based on biology, or the science of living things</li>
 		<li>Closely related to both agricultural and medical technology</li>
@@ -49,7 +52,10 @@
 	</section>
 	<section>
 		<h1>Communication</h1>
-		<img src="images/technology-types/communication-technology.jpg" alt="Communication Technology" id="small" />
+		<div id="small">
+			<img src="images/technology-types/communication.jpg" alt="Communication Technology" />
+			<p id="smalltext">CC0 - hpgruesen</p>
+		</div>
 		<ul>
 		<li>Technology like cell phones, IPods, DVD recorders, etc.</li>
 		<li>Communication technologies allow us to communicate</li>
@@ -59,7 +65,10 @@
 	</section>
 	<section>
 		<h1>Manufacturing</h1>
-		<img src="images/technology-types/manufacturing-technology.jpg" alt="Manufacturing Technology" id="small" />
+		<div id="small">
+			<img src="images/technology-types/manufacturing.jpg" alt="Manufacturing Technology" />
+			<p id="smalltext">DMCA</p>
+		</div>
 		<ul>
 		<li>Technology having to do with items made or processed in a factory</li>
 		<li>Manufacturing technology can be automated or not</li>
@@ -68,7 +77,10 @@
 	</section>
 	<section>
 		<h1>Construction</h1>
-		<img src="images/technology-types/construction-technology.jpg" alt="Construction Technology" id="small" />
+		<div id="small">
+			<img src="images/technology-types/construction.jpg" alt="Construction Technology" />
+			<p id="smalltext">CC0 - Public Domain</p>
+		</div>
 		<ul>
 		<li>Technology dealing with houses, bridges, commercial buildings, playgrounds, monuments, etc.</li>
 		<li>Includes not only equipment used for construction, but also the materials and systems included in the construction industry </li>
@@ -76,7 +88,10 @@
 	</section>
 	<section>
 		<h1>Transportation</h1>
-		<img src="images/technology-types/transportation-technology.jpg" alt="Transportation Technology" id="small" />
+		<div id="small">
+			<img src="images/technology-types/transportation.jpg" alt="Transportation Technology" />
+			<p id="smalltext">DCMA</p>
+		</div>
 		<ul>
 		<li>Technology dealing with moving people or products like cars, ships, planes, trains, etc.</li>
 		<li>Includes all modes of transport, from land to air and beyond</li>
@@ -84,7 +99,8 @@
 		</ul>
 	</section>
 	<footer>
-		<p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
+		<p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
+
 	</footer>
 </div>
 </body>

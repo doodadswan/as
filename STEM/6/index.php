@@ -22,8 +22,8 @@
     </nav>
 	<section>
 		<h1>6th Grade Curriculum</h1>
-		<p>Intro to Technology — Rules/Procedures</p>
 		<p><a href="../8/internet-safety-expectations.php">Internet Safety and Expectations</a></p>
+		<p><a href="../invention/history-of-invention.php">The History of Invention</a></p>
 		<p>Intro to Engineering Design Process </p>
 		<p><a href="../7/elements-and-principles-design.php">Design</a></p>
 		<p><a href="technology-collage.php">Technology Collage</a>    </p>
@@ -39,7 +39,8 @@
 		<p>Check out the story of how the World Wide Web came to be. The <a href="http://www.w3.org/community/webed/wiki/The_history_of_the_Web#The_creation_of_World_Wide_Web" target="_blank">article </a>is found on the W3.org website.  This is the consortium in charge of the web and its standards.</p>
 	</aside>
 	<footer>
-		<p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
+		<p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
+
 	</footer>
 </div>
 </body>

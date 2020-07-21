@@ -40,34 +40,29 @@
     
     </nav>
     
-    <section id="directory1">
-	  <h3><a href="../booklist.php">Booklist</a></h3>
+	<section id="directory1">
+		<h3><a href="../booklist.php">Booklist</a></h3>
 		<h3><a href="../7/elements-and-principles-design.php">Elements and Principles <br />
 	    of Design</a></h3>
 		<h3><a href="../6/engineer-types.php">Engineer Types</a></h3>
-  <h3><a href="../invention/history-of-invention.php">History of Invention</a></h3>
-  </section>
-
+  		<h3><a href="../invention/history-of-invention.php">History of Invention</a></h3>
+		<h3><a href="../innovation/historical-innovators.html">Historic Innovators</a></h3>
+  	</section>
 	<section id="directory2">
-      <h3><a href="../invention/important-figures.php">Important Figures</a></h3>
       <h3><a href="../innovation/innovation-one.php">Innovation</a></h3>
       <h3><a href="../8/internet-safety-expectations.php">Internet Safety and Expectations</a></h3>
       <h3><a href="../7/pixlr.php">PIXLR</a></h3>
-</section>
-
-    <section id="directory3">
       <h3><a href="../robotics/index.php">Robotics</a></h3>
       <h3><a href="../solidworks/index.php">SolidWorks</a></h3>
+	</section>
+	<section id="directory3">
       <h3><a href="../6/technology-collage.php">Technology Collage</a></h3>
       <h3><a href="../6/types-of-technology.php">Technology Types</a></h3>
       <h3>User Interface</h3>
+	  <h3><a href="https://www.youtube.com/channel/UCeDYI8SPGDxjV7lHPmf607g" title="Instructional Videos" target="_blank">Videos</a></h3>    
       <h3><a href="../vocabulary.php" title="STEM Vocabulary">Vocabulary</a></h3>    
-    </section>
-
-        
-<footer>
-  <p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
-
+	</section>
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <script src="//use.typekit.net/rvy7xig.js"></script>

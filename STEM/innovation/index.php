@@ -40,8 +40,7 @@
     	<p>&nbsp;</p>
 <p>&nbsp;</p>
     </aside>
-  <footer><p>&copy; 1995-<?php echo(date("Y")) ?> Alex Swan and <a href="http://www.geminigraphix.com" target="_blank">GeminiGraphix</a></p></footer>
-
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <?php require_once('../../google.analytics.php'); ?>

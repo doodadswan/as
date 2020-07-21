@@ -29,9 +29,7 @@
 		<p>Do you want to know what webpages looked like in the past? Check out the Wayback Machine <a href="http://archive.org/web/" target="_blank">here</a>. </p>
 		<p>Enter the name of the web address you want to research and click browse history. It will show you changes that have been made to the site since it came online.</p>
 	</aside>
-	<footer>
-		<p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
-	</footer>
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <?php require_once('../../google.analytics.php'); ?>

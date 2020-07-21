@@ -25,12 +25,11 @@
 	</nav>
   	<section>
 		<h1>8th Grade Curriculum</h1>
-		<p>Intro to Technology — Rules/Procedures</p>
-		<p><a href="../invention/history-of-invention.php">The History of Invention</a></p>
 		<p><a href="internet-safety-expectations.php">Internet Safety and Expectations</a></p>
+		<p><a href="../invention/history-of-invention.php">The History of Invention</a></p>
 		<p><a href="../7/pixlr.php">PIXLR</a></p>
 		<p>Cosmopolitan Creature    </p>
-		<p>Intro to Engineering Design Process	</p>
+		<p><a href="../edp/Swan-EDP-HyperDoc.pdf" title="Introduction to the Engineering Design Process" target="_blank">Intro to Engineering Design Process</a></p>
 		<p><a href="../solidworks/index.php">SolidWorks and Computer Aided Design</a></p>
 		<p><a href="../robotics/index.php" title="Robotics and Automation Unit">Robotics and Automation</a></p>
 		<p><a href="../html.css/index.php" title="HTML and CSS">HTML/CSS</a></p>
@@ -41,9 +40,7 @@
 	  <h2>CSS</h2>
 		<p>CSS stand for Cascading Style Sheets. CSS is a language used by web developers to add style to a webpage. The CSS Zen Garden is an awesome site that shows the power and beauty of CSS as a language. The only difference between the various sites on CSS Zen Garden is the various CSS changes made by the different designers. Check it out <a href="http://www.csszengarden.com" target="_blank">here</a>.</p>
 	</aside>
-	<footer>
-		<p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
-	</footer>
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <!--Typekit Begin-->

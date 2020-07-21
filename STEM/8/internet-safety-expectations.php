@@ -24,7 +24,6 @@
 	</ul>
     </nav>
   	<section>
-		<p>For my Internet Safety and Expectations lesson, I ask my students to review the community guidelines for Scratch, a programming language my grade levels often use during the semester. Also, we discuss my expectations for their online behavior and work together to try and better understand how guidelines and rules for online communities help protect people. I expect my students to be respectful to each other, and anyone else who they make contact with online.  </p>
 		<p><strong>Mr. Swan's Online Rules and Expectations. </strong></p>
 		<ul>
 		  <li>Treat people online as you would in person.  Don’t use anonymity to abuse others online.</li>
@@ -38,9 +37,7 @@
 		<h2>The Creation of the Web</h2>
 		<p>Check out the story of how the World Wide Web came to be. The <a href="http://www.w3.org/community/webed/wiki/The_history_of_the_Web#The_creation_of_World_Wide_Web" target="_blank">article </a>is found on the W3.org website. This is the consortium in charge of the web and its standards.</p>
     </aside>
-	<footer>
-		<p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
-	</footer>
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <!--Typekit Begin-->

@@ -38,8 +38,9 @@
 		<h2>Shape Collage</h2>
 		<p>Shape Collage is a free desktop app that allows you to convert your images into specific shapes. <strong><em>Check with your parents before you download anything off the Internet</em></strong>. Download Shape Collage <a href="http://www.shapecollage.com/" target="_blank">here</a>.</p>
 	</aside>
-	<p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
-</div>
+	<footer>
+		<p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
+	</footer</div>
 </body>
 <!--Typekit Begin-->
 <script src="//use.typekit.net/rvy7xig.js"></script>

@@ -22,14 +22,13 @@
     </nav>
 	<section>
 		<h1>PIXLR Color Replace Tool</h1>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/yZ5vjIS1U84" frameborder="0" allowfullscreen></iframe>
 	</section>
 	<aside>
 		<h2>Engineering.com</h2>
 		<p>Engineering.com is a great resource for keeping up with engineering current events. Click <a href="http://www.engineering.com" target="_blank">here</a> to access the site.</p>
 	</aside>
 	</aside>
-  	<footer><p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <!--Typekit Begin-->
