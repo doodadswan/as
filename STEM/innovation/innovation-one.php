@@ -22,14 +22,8 @@
 	</ul>
     </nav>
 	<section>
-		<h1>Innovation - Day One</h1>
-		<p>What is Innovation?</p>
-		<p>Students will write down a few sentences describing innovation, or list five words that represent or relate to what they know about innovation.</p>
-		<p>After students describe innovation and we discuss as a class, we will view the video clip below.</p>
-		<p><a href="http://www.oninnovation.com/about/about-oninnovation.aspx" target="_blank">http://www.oninnovation.com/about/about-oninnovation.aspx</a></p>
-		<p>Look at the list of innovators that are featured on the overview video. Students will record how the featured innovators describe innovation. Jot down what you remember from watching or listening. </p>
-		<p>Create a class definition by combining various definitions of innovation.</p>
-		<p><a href="innovation-two.php">Innovation Lesson Two</a></p>
+		<h1>Innovation</h1>
+		<p>I am in the process of recreating this page.</p>
 	</section>
 	<aside>
 		<h2>The Henry Ford</h2>
@@ -42,7 +36,7 @@
 	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
-<script src="//use.typekit.net/rvy7xig.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://use.typekit.com/rvy7xig.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <?php require_once('../../google.analytics.php'); ?>
 </html>

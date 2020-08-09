@@ -9,8 +9,6 @@
 <style type="text/css">
 @import url("../style/stem.css");
 </style>
-<script src="//use.typekit.net/rvy7xig.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
 <div id="container">
@@ -164,7 +162,7 @@
    	<p>Technologies change quickly. For example, when Mr. Swan was in middle school, the following technology did not exist:</p>
    	<ul>
    	  <ul>
-   	    <li>The World       Wide Web</li>
+   	    <li>The World Wide Web</li>
    	    <li>Cell Phones</li>
    	    <li>Laptops</li>
    	    <li>Color Monitors</li>
@@ -176,5 +174,9 @@
 	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
+<!--Typekit Begin-->
+<script type="text/javascript" src="http://use.typekit.com/rvy7xig.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<!--Analytics Begin-->
 <?php require_once('../../google.analytics.php'); ?>
 </html>

@@ -23,21 +23,21 @@ body {
 
 a {
 	color: yellow;
-	text-decoration:none;	
+	text-decoration: none;	
 }
 
 p {
-	font-size:1.5em;
-	text-align:left;
-	margin-left:2%;
-	margin-right:2%;	
+	font-size: 1.5em;
+	text-align: left;
+	margin-left: 2%;
+	margin-right: 2%;	
 }
 
 h1 {
-	font-size:3em;
-	text-align:left;
-	margin-left:4%;
-	margin-bottom:-1%;
+	font-size: 3em;
+	text-align: left;
+	margin-left: 4%;
+	margin-bottom: -1%;
 }
 
 h2 {
@@ -76,15 +76,14 @@ h4 {
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
-	box-shadow:7px 7px 3px rgba(255,255,255,0.3);
-	color:white;
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	box-shadow: 7px 7px 3px rgba(255,255,255,0.3);
+	color: white;
 	font-size: 3em;
 	font-weight: bold;
 }
 
 #category {
-	background-color:gray;
+	background-color: gray;
 }
 
 nav {
@@ -107,7 +106,6 @@ nav li a {
 	margin: 0;
 	padding: 10px;
 	background-color: black;	
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
@@ -129,10 +127,10 @@ section	{
 section ul {
 	font-size: 1.5em;
 	text-align: left;
-	list-style:square;
-	line-height:1.5;
+	list-style: square;
+	line-height: 1.5;
 	margin-bottom: 1em;
-}
+}	/* Use this style for ol and ul tags */
 
 aside	{
 	float: right;
@@ -424,4 +422,3 @@ nav li a {
 	font-size: .85em;
 }
 } 
-

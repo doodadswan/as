@@ -35,8 +35,8 @@
 </div>
 </body>
 <!--Typekit Begins-->
-<script src="//use.typekit.net/rvy7xig.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://use.typekit.com/rvy7xig.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <!--Analytics Begins-->
 <?php require_once('../google.analytics.php'); ?>
 </html>

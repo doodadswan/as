@@ -25,16 +25,15 @@ try{Typekit.load();}catch(e){}
 <body>
 <a href="../index.php"><img src="../images/home.png" alt="Home" id="home"></a>
 <div id="cv">
-	<li><a href="images/alex-swan-resume.pdf" target="_blank">Resume</a></li>
+	<li><a href="https://www.linkedin.com/in/alexswan/" target="_blank">Resume</a></li>
 	<li><a href="artist-statement.php">Artist Statement</a></li>
 	<li><a href="artist-biography.php">Artist Biography</a></li>
 </div>
 <nav role="navigation">
 	<ul>
-    	<li><a href="photographs.php">Photographs</a></li>
-    	<li><a href="paintings.php">Paintings</a></li>
     	<li><a href="drawings-digital-art-and-printmaking.php">Drawings, Digital Art, &amp; Printmaking</a></li>
-    	<li></li>
+    	<li><a href="paintings.php">Paintings</a></li>
+    	<li><a href="photographs.php">Photographs</a></li>
 	</ul>
 </nav>
 <footer><p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>

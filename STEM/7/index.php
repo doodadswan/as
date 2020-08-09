@@ -24,8 +24,8 @@
 		<h1>7th Grade Curriculum</h1>
 		<p><a href="../8/internet-safety-expectations.php">Internet Safety and Expectations</a></p>
 		<p><a href="../invention/history-of-invention.php">The History of Invention</a></p>
-		<p><a href="elements-and-principles-design.php">Designer</a></p>
-		<p><a href="../edp/Swan-EDP-HyperDoc.pdf" target="_blank">Intro to Engineering Design Process </a> </p>
+		<p><a href="https://www.youtube.com/watch?v=k0M56F8rbWY" target="_blank">Getting to know the Engineering Design Process</a></p>
+		<p><a href="balloon-racer.php">Ballon Rocket Racer — STEM Build</a></p>
 		<p><a href="../innovation/innovation-one.php">Innovation Project</a></p>
 		<p><a href="pixlr.php">PIXLR</a></p>
 		<p><a href="../solidworks/index.php">SolidWorks and Computer Aided Design</a></p>
@@ -42,8 +42,8 @@
 </div>
 </body>
 <!--Typekit Begin-->
-<script src="//use.typekit.net/rvy7xig.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://use.typekit.com/rvy7xig.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <!--Analytics Begin-->
 <?php require_once('../../google.analytics.php'); ?>
 </html>

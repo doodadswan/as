@@ -10,12 +10,7 @@
 @import url("css/ps-artwork.css");
 @import url("css/imageflow.css");
 </style>
-<script type="text/javascript" src="scripts/modernizr.js"></script>
 <script src="scripts/imageflow.js" type="text/javascript" charset="utf-8"></script> <!-- http://finnrudolph.de/ImageFlow -->
-<script type="text/javascript" src="http://use.typekit.com/vgp4idm.js"></script>
-<script type="text/javascript">
-try{Typekit.load();}catch(e){}
-</script>
 
 <!--[if lte IE 8]>
 <script src="scripts/html5shiv.js" type="text/javascript"></script>

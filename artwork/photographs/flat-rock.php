@@ -9,7 +9,6 @@
 @import url("../css/ps-artwork.css");
 @import url("../css/imageflow.css");
 </style>
-<script type="text/javascript" src="../scripts/modernizr.js"></script>
 <script type="text/javascript" src="http://use.typekit.com/vgp4idm.js"></script>
 <script type="text/javascript">
 try{Typekit.load();}catch(e){}

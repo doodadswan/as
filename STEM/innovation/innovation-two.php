@@ -31,7 +31,7 @@
 	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
-<script src="//use.typekit.net/rvy7xig.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://use.typekit.com/rvy7xig.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <?php require_once('../../google.analytics.php'); ?>
 </html>

@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<title>Mr. Swan's STEM Site | Robotics</title>
+<title>Mr. Swan's STEM Site | SolidWorks</title>
 <style type="text/css">
 @import url("../style/stem.css");
 </style>
@@ -30,14 +30,12 @@
     
   <section>
     <h1>SolidWorks</h1>
-    <p>My seventh and eighth graders use SolidWorks, which is an industry standard CAD program. We begin our unit by learning about isometric drawings and how this mathematical drawing technique differs from more traditional forms of drawing, such as perspective drawing. After that, we begin learning about tools and features in SolidWorks and eventually creating our very own 3D print using our Stratasys 3D printer! Below are a few videos that correspond to my 3D/CAD unit.</p>
-    <ul>
-	  	<li><a href="solidworks_stairs.php">SolidWorks Stairs Demo</a></li>
-		<li><a href="solidworks_nut.bolt.php">SolidWorks Nut and Bolt Demo</a></li>
-		<li><a href="solidworks_nut.bolt.assembly.php">SolidWorks Nut and Bolt Assembly Demo</a></li>
-		<li><a href="solidworks_mirror.php">SolidWorks Mirror Feature</a></li>
-		<li><a href="solidworks_sketch.php">SolidWorks Sketch Picture Feature</a></li>
-    </ul>
+    <p>My seventh and eighth graders use SolidWorks, which is an industry standard CAD program. We begin our unit by learning about isometric drawings and how this mathematical drawing technique differs from traditional forms of drafting. We then begin learning about tools and features in SolidWorks and eventually create our very own 3D print using our Stratasys 3D printer! Below are a few videos that correspond to my 3D/CAD unit.</p>
+	<ul>
+		<li><a href="https://www.youtube.com/watch?v=hkqQdI41R8s" target="_blank">Getting started in SolidWorks — Stairs Demo</a></li>
+		<li><a href="https://www.youtube.com/watch?v=KOSLyrqbLMk&feature=youtu.be" target="_blank">Using the sketch picture feature in SolidWorks</a></li>	
+		<li><a href="https://www.youtube.com/watch?v=habEchwjuOY" target="_blank">Creating your first SolidWorks Assembly — Nut and Bolt Assembly</a></li>	
+	</ul>
   </section>
     
     <aside>
@@ -49,7 +47,7 @@
 	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
-<script src="//use.typekit.net/rvy7xig.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://use.typekit.com/rvy7xig.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <?php require_once('../../google.analytics.php'); ?>
 </html>

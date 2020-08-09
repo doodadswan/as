@@ -19,11 +19,6 @@
 
 <body>
 <div id="wrapper">
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <a href="../index.php"><img src="images/home.png" alt="Home" id="home"></a>
 <nav role="navigation">
 	<ul>

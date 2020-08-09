@@ -14,23 +14,16 @@ html {
 }
 */
 </style>
-<meta name="google-translate-customization" content="f91f6b59f687e07-728df0675eb22298-gf4646ea128908eee-c"/>
-
 <!--[if lte IE 8]>
 <script src="scripts/html5shiv.js" type="text/javascript"></script>
 <![endif]-->
 </head>
 <body>
 <div id="wrapper">
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <header role="banner" id="title">Alex Swan</header>
 <nav role="navigation">
 	<ul>
-    	<li><a href="artwork/">artwork</a></li>
+    	<li><a href="artwork/index.php">artwork</a></li>
    	  	<li><a href="doodads.php">doodads</a></li>
 	</ul>
 </nav>

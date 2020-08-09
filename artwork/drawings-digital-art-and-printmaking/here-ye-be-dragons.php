@@ -9,7 +9,6 @@
 @import url("../css/ps-artwork.css");
 @import url("../css/imageflow.css");
 </style>
-<script type="text/javascript" src="../scripts/modernizr.js"></script>
 <script type="text/javascript" src="http://use.typekit.com/vgp4idm.js"></script>
 <script type="text/javascript">
 try{Typekit.load();}catch(e){}
@@ -28,8 +27,7 @@ try{Typekit.load();}catch(e){}
   <p class="for-sale"><a href="mailto:alex@alexswan.com?subject=SALES">Or You Can Contact Me Here for Inkjet Prints</a></p>
   <p class="nfs">&nbsp;</p>
 </section>
-<footer>
-  <p>&copy; 1995-<?php echo(date("Y")) ?> Alex Swan and <a href="http://www.geminigraphix.com" target="_blank">GeminiGraphix</a></p></footer>
+<footer><p>&copy; 1995-<?php echo(date("Y")) ?> <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </body>
 </html>
 <?php require_once('../../google.analytics.php'); ?>

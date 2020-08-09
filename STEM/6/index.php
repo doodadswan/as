@@ -24,15 +24,15 @@
 		<h1>6th Grade Curriculum</h1>
 		<p><a href="../8/internet-safety-expectations.php">Internet Safety and Expectations</a></p>
 		<p><a href="../invention/history-of-invention.php">The History of Invention</a></p>
-		<p>Intro to Engineering Design Process </p>
+		<p><a href="https://www.youtube.com/watch?v=k0M56F8rbWY" target="_blank">Getting to know the Engineering Design Process</a></p>
 		<p><a href="../7/elements-and-principles-design.php">Design</a></p>
 		<p><a href="technology-collage.php">Technology Collage</a>    </p>
 		<p><a href="engineer-types.php">Engineer Types</a></p>
 		<p><a href="types-of-technology.php">Technology Types</a></p>
-		<p>SketchUP </p>
+		<p>SketchUp</p>
 		<p>Robotics</p>
 		<p>Scratch Programming </p>
-		<p>Various Hands-On Projects</p>
+		<p>STEM Builds</p>
 	</section>
 	<aside>
 	  <h2>The Creation of the Web</h2>
@@ -45,8 +45,8 @@
 </div>
 </body>
 <!--Typekit Begin-->
-<script src="//use.typekit.net/rvy7xig.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://use.typekit.com/rvy7xig.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <!--Analytics Begin-->
 <?php require_once('../../google.analytics.php'); ?>
 </html>

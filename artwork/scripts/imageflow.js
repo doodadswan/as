@@ -1429,7 +1429,7 @@ var domReadyEvent =
 		/* for Internet Explorer */
 		/*@cc_on
 			@if (@_win32 || @_win64)
-			document.write("<script id=__ie_onload defer src=\"//:\"><\/script>");
+			document.write("<script id=__ie_onload defer src="#"><\/script>");
 			var script = document.getElementById("__ie_onload");
 			script.onreadystatechange = function()
 			{
