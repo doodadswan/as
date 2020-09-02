@@ -33,15 +33,15 @@
 		<p>Robotics</p>
 		<p>Scratch Programming </p>
 		<p>STEM Builds</p>
+	<div id="pic3">
+		<img src="../images/approved.png" alt="Welcome to Mr. Swan's STEAM Machine!" /> 
+	</div>
 	</section>
 	<aside>
 	  <h2>The Creation of the Web</h2>
 		<p>Check out the story of how the World Wide Web came to be. The <a href="http://www.w3.org/community/webed/wiki/The_history_of_the_Web#The_creation_of_World_Wide_Web" target="_blank">article </a>is found on the W3.org website.  This is the consortium in charge of the web and its standards.</p>
 	</aside>
-	<footer>
-		<p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
-
-	</footer>
+	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>
 <!--Typekit Begin-->

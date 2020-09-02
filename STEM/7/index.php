@@ -25,14 +25,17 @@
 		<p><a href="../8/internet-safety-expectations.php">Internet Safety and Expectations</a></p>
 		<p><a href="../invention/history-of-invention.php">The History of Invention</a></p>
 		<p><a href="https://www.youtube.com/watch?v=k0M56F8rbWY" target="_blank">Getting to know the Engineering Design Process</a></p>
-		<p><a href="balloon-racer.php">Ballon Rocket Racer — STEM Build</a></p>
-		<p><a href="../innovation/innovation-one.php">Innovation Project</a></p>
+		<p><a href="balloon-rocket-racer.php">Ballon Rocket Racer — STEM Build</a></p>
+		<p><a href="../innovation/index.php">Innovation Project</a></p>
 		<p><a href="pixlr.php">PIXLR</a></p>
 		<p><a href="../solidworks/index.php">SolidWorks and Computer Aided Design</a></p>
 		<p><a href="../robotics/index.php" title="Robotics and Automation Unit">Robotics and Automation</a></p>
 		<p>Cosmopolitan Creature</p>
 		<p>Scratch Programming</p>
 		<p>Various Hand-On Challenges</p>
+	<div id="pic2">
+		<img src="../images/cool.png" alt="Welcome to Mr. Swan's STEAM Machine!" /> 
+	</div>	
 	</section>
 	<aside>
 	  <h2>LINUX</h2>

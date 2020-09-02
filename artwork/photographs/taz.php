@@ -22,8 +22,7 @@
   <p class="for-sale"><a href="mailto:alex@alexswan.com?subject=SALES">Contact Me Here to Discuss the Detail</a><a href="mailto:alex@alexswan.com?subject=SALES">s</a></p>
   <p class="for-sale">&nbsp;</p>
 </section>
-<footer>
-<p>&copy; 1995-<?php echo(date("Y")) ?> Alex Swan and <a href="http://www.geminigraphix.com" target="_blank">GeminiGraphix</a></p></footer>
+<footer><p>&copy; 1995-<?php echo(date("Y")) ?><a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer></body>
 </body>
 </html>
 <script type="text/javascript" src="http://use.typekit.com/rvy7xig.js"></script>

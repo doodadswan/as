@@ -34,6 +34,9 @@
 		<p><a href="../robotics/index.php" title="Robotics and Automation Unit">Robotics and Automation</a></p>
 		<p><a href="../html.css/index.php" title="HTML and CSS">HTML/CSS</a></p>
 		<p>Cosmopolitan Creature</p>
+	<div id="pic1">
+		<img src="../images/break.dancing.png" alt="Welcome to Mr. Swan's STEAM Machine!" /> 
+	</div>	
   	</section>
     <aside>
 	  <h2>CSS</h2>

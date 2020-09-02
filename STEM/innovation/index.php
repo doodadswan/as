@@ -29,15 +29,17 @@
     
     </nav>
     
-  <section>
-   	<h1>Innovation</h1>
-</section>
-    
+	<section>
+   		<h1>Innovation</h1>
+		<p>This page is being rewritten.</p>
+		<p>&nbsp;</p>
+	</section>
     <aside>
-    <h2>Apple</h2>
-    	<p>&nbsp;</p>
-<p>&nbsp;</p>
-    </aside>
+		<h2>Internet Wayback Machine</h2>
+		<p>Do you want to know what webpages looked like in the past? Check out the Wayback Machine <a href="http://archive.org/web/" target="_blank">here</a>. </p>
+		<p>Enter the name of the web address you want to research and click browse history. It will show you changes that have been made to the site since it came online.</p>
+		<h2>Abstraction (Computer Science)</h2>
+		<p>Abstraction is the process of seperating ideas from specific instances of those ideas at work. Learn more <a href="http://en.wikipedia.org/wiki/Abstraction_(computer_science)" target="_blank">here</a>.</p>	</aside>
 	<footer><p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p></footer>
 </div>
 </body>

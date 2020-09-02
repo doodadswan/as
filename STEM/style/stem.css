@@ -54,6 +54,7 @@ h3 {
 	font-size: 30px;
 	text-align: center;
 	margin-left: 2%;
+	margin-right: 2%;
 }	/* Directory Page Is Using This Tag */
 
 h4 {  
@@ -168,8 +169,34 @@ footer p {
 	margin-top:-0.1em;
 }
 
+#bitmojitext {
+	float: right;
+	font-size:medium;
+	margin-left:1em;
+	margin-top:-0.1em;
+}
+
 /* Images and Video */
 
+#bitmoji {
+		width: 400px;
+		float: right;
+		margin: 7px;
+		margin-top: -5%;
+		margin-right: 2%;
+		padding: 10px;
+		box-shadow: 7px 7px 7px rgba(0,0,0,0.5);
+}
+
+#bitmoji img {
+		max-width: 380px;
+		border: medium white solid;
+}
+
+#bitmoji img:hover {
+		transform: scaleX(-1);
+		transition: .75s ease-in-out;
+}
 
 #small {
 		width:250px;
@@ -190,6 +217,43 @@ footer p {
 		border-radius:5px;
 		border:medium solid white;
 }
+
+#pic1 {
+		float: right;
+		max-width: 400px;
+		margin-top: -40%;
+		margin-right: 2%;
+}	/* eighth grade index image */
+
+#pic1:hover {
+		transform: rotateY(190deg);		
+		transition: .7s ease-in-out;
+}	/* eighth grade index image */
+
+#pic2 {
+		float: right;
+		max-width: 400px;
+		margin-top: -40%;
+		margin-right: 2%;
+}	/* seventh grade index image */
+
+#pic2:hover {
+		filter: grayscale(100%);
+		transition: .5s ease-in-out;
+}	/* seventh grade index image */
+
+#pic3 {
+		float: right;
+		max-width: 400px;
+		margin-top: -40%;
+		margin-right: 3%;
+}	/* sixth grade index image */
+
+#pic3:hover {
+		filter: invert(100%);
+		transition: .5s ease-in-out;
+}	/* sixth grade index image */
+
 
 #small p {
 		text-align: right;
@@ -223,21 +287,19 @@ footer p {
 		box-shadow:7px 7px 7px rgba(0,0,0,0.5);
 }
 
-/* YouTube Videos */
 iframe {
 	margin-top: 50px;
 	margin-bottom: 30px;
-}
+} 	/* YouTube Videos */
 
 video {
     margin-top: 50px;
 	margin-bottom: 30px;    
-}
+}	/* YouTube Videos */
 
-/* AdSense Ads */
 ins {
 	margin-top: -3.6em;
-}
+}	/* AdSense Ads */
 
 /* Directory Style */
 
@@ -264,7 +326,7 @@ ins {
 
 @media only screen 
 and (max-width : 650px) {
-	
+
 #title {
 	float: left;
 	margin-bottom: 1%;
@@ -317,7 +379,7 @@ width: 100%;
 }
 	
 @media only screen and (min-width: 650px) and (max-width: 720px){
-
+	
 #title {
 	margin-bottom: 3.5%;
 }
@@ -408,7 +470,7 @@ nav li a {
 /* iPhone 6,7,8 portrait and landscape */
 
 @media screen and (min-device-width:375px) and (max-device-width:667px) {
-	
+
 nav {
 	margin-top: 1.5em;
 	margin-bottom: 1.5em;
@@ -420,5 +482,31 @@ nav li {
 
 nav li a {
 	font-size: .85em;
+}
+
+#bitmoji {
+	margin-top: 3%;
+}
+	
+#large {
+	margin-top: 2%;
+}
+	
+#pic1 {
+	margin-top: -20%;
+}
+	
+#pic2 {
+	margin-top: -15%;
+	margin-bottom: 5%;
+	margin-right: 0;
+}
+	
+#pic2 img {
+	max-width: 300px;
+}
+	
+#pic3 {
+	margin-bottom: 5%;
 }
 } 

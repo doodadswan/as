@@ -100,7 +100,6 @@
 	</section>
 	<footer>
 		<p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>
-
 	</footer>
 </div>
 </body>

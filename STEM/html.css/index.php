@@ -21,14 +21,15 @@
 	</ul>
     </nav>
   	<section>
-  	  <h1>HTML and CSS</h1>
-		  <p>Around the end of week seven, or the beginning of week eight, we will begin working on our Technological Systems unit.  This is the most important unit in my eighth grade classes.  We will focus mostly on web technology.  Eventually, after a week or so of &quot;jedi training&quot; using a course on Khan Academy, the class will group up to create a 3 page website.  Don't worry!  After going through Khan Academy and using a checklist, as well as the <em>Starter Kit</em> that I provide, you will be able to accomplish a lot more than you think!  Click on the links below to see some previous student work.  As you can see, there are some cool examples as well. </p>
-		  <p><strong>Vocabulary Words:  </strong></p>
-		  <p class="vocab">HTML/Hypertext Markup Language   </p>
-	  <p class="vocab">CSS/Cascading Style Sheets</p>
-		  <p><strong>Getting Started:</strong></p>
-		  <p><a href="Starter_Kit.zip" target="_blank">Starter Kit</a></p>
-		  <p><a href="html.css_getting.started.php">HTML and CSS Getting Started Demo</a></p>		  
+  	  	<h1>HTML and CSS</h1>
+		<p>This is the most important unit in my eighth grade curriculum.  We will work on learning the ins and outs of HTML, then CSS over the series of several weeks.  Don't worry!  Use the checklist that I provide.  The Code.org course does a great job stepping you through the process and I have provided videos below for you to refer to.  Watch the videos as many times as you need.  I have been teaching this unit for years and the videos are designed to quickly address some of the common problems that my students struggle with the most.  Don't watch any of the advanced videos until you have a strong understanding of the other content.  Doing so will just make things more difficult.</p>
+		<p><strong>Vocabulary Words:</strong></p>
+		<p class="vocab">HTML/Hypertext Markup Language</p>
+		<p class="vocab">CSS/Cascading Style Sheets</p>
+		<p><strong>Video Help:</strong></p>
+		<p>I am working on updating these.</p>
+		<p><strong>Advanced Videos:</strong></p>
+		<p>I am working on updating these.</p>
 		<p><strong>View Student Examples On <a href="https://login.microsoft.com" target="_blank">Office 365 For Inspiration</a>:</strong></p>
   	</section>
     <aside>
