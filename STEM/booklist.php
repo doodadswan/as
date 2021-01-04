@@ -21,13 +21,14 @@
 	</ul>
     </nav>
     <section id="directory1">
-	  <h3><a href="http://abookapart.com/" target="_blank">A Book Apart Series</a></h3>
+	  	<h3><a href="http://abookapart.com/" target="_blank">A Book Apart Series</a></h3>
 	</section>
 	<section id="directory2">
-      <h3><a href="http://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/147670869X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1427644946&amp;sr=1-1&amp;keywords=innovators+walter+isaacson" target="_blank">The Innovators</a></h3>
+      	<h3><a href="http://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/147670869X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1427644946&amp;sr=1-1&amp;keywords=innovators+walter+isaacson" target="_blank">The Innovators</a></h3>
   	</section>
     <section id="directory3">
-      <h3><a href="http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1427644893&amp;sr=1-1&amp;keywords=steve+jobs" target="_blank">Steve Jobs</a></h3>
+    	<h3><a href="http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1427644893&amp;sr=1-1&amp;keywords=steve+jobs" target="_blank">Steve Jobs</a></h3>
+		<h3><a href="https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X/ref=sr_1_1?crid=30229FGWT1BK0&dchild=1&keywords=weaving+the+web+tim+berners+lee" target="_blank">Weaving the Web</a></h3>
     </section>
 <footer>
 		<p>CC BY-SA 2014-<?php echo(date("Y")) ?> – <a href="https://www.linkedin.com/in/alexswan" target="_blank">Alex Swan</a></p>

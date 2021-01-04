@@ -23,20 +23,13 @@
 	<section>
 		<h1>PIXLR</h1>
 		<p>
-		PIXLR is a photo editing program that is available for free. I use it to familiarize my students with the popular web application, its user interface, as well as prepare them for my Cosmopolitan Creature assignment.</p>
-		<p>Below are some of PIXLR's shortcuts:</p>
-		<p>Crop Tool: Ctrl-C<br />
-		Move Tool: Ctrl-V<br />
-		Marquee Tool: Ctrl-M<br />
-		Lasso Tool: Ctrl-L<br />
-		Wand Tool: Ctrl-W<br />
-		Eraser Tool: Ctrl-E<br />
-		Brush Tool: Ctrl-B<br />
-		Color Replacement Tool: No Shortcut<br />
-		Paint Bucket Tool: Ctrl-G<br />
-		Type Tool: Ctrl-T<br />
-		Zoom Tool: Ctrl-Z</p>
-		<p>Remebering shortcuts can help you speed up your work when using certain programs. Shortcuts vary from program to program; however a lot are pretty standard (like copy and paste).</p>
+		PIXLR is a powerful photo-editing program that is available for free. I use it to familiarize my students with the popular web application, its user interface, as well as prepare them for future assignments in my class.</p>
+		<ul>
+			<li><a href="https://youtu.be/ai2Fq-cW5Mg" target="_blank">Introducing PIXLR Tools</a></li>
+			<li><a href="https://youtu.be/Pcn6LN2iysM" target="_blank">Introducing PIXLR Utilities</a></li>
+			<li><a href="https://youtu.be/hfuO-WqX4Nw" target="_blank">Using the Mask Tool</a></li>
+			<li><a href="https://youtu.be/4P907N9_g3A" target="_blank">Using the PIXLR Color Replace Tool</a></li>
+		</ul>
 	</section>
 	<aside>
 		<h2>Engineering.com</h2>
