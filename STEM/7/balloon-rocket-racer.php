@@ -32,7 +32,7 @@
 		<a href="https://youtu.be/E8ZFQzUJhk0" target="_blank">Balloon Rocket Racer — Safety!</a><br>
 		<a href="https://youtu.be/HXiaiLQ5xdQ" target="_blank">Balloon Rocket Racer — Tips</a><br>
 		</p>
-		<h2>Works Cited:</h2>
+		<h2>Reference:</h2>
 		<p>I based this lesson largely from the following lesson idea: <a href="http://teachers.egfi-k12.org/activity-ballon-powered-car/" target="_blank">http://teachers.egfi-k12.org/activity-ballon-powered-car/.</a>  I still use the templates from the website as well as a modified version of the design sheet.</p>
 	</section>
 	<aside>
