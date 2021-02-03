@@ -24,6 +24,7 @@ html {
 <nav role="navigation">
 	<ul>
     	<li><a href="artwork/index.php">artwork</a></li>
+		<li><a href="STEM/">STEAM</a></li>
    	  	<li><a href="doodads.php">doodads</a></li>
 	</ul>
 </nav>

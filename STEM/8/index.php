@@ -29,7 +29,7 @@
 		<p><a href="../invention/history-of-invention.php">The History of Invention</a></p>
 		<p><a href="../6/types-of-technology.php">Technology Types</a></p>
 		<p><a href="../6/engineer-types.php">Engineer Types</a></p>
-		<p><a href="https://www.youtube.com/watch?v=k0M56F8rbWY" target="_blank">Getting to know the Engineering Design Process</a></p>
+		<p><a href="https://www.youtube.com/watch?v=k0M56F8rbWY" target="_blank">Getting to Know the Engineering Design Process</a></p>
 		<p><a href="../solidworks/index.php">SolidWorks and Computer Aided Design</a></p>
 		<p><a href="../robotics/index.php" title="Robotics and Automation Unit">Robotics and Automation</a></p>
 		<p><a href="../html.css/index.php" title="HTML and CSS">HTML/CSS</a></p>

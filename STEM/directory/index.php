@@ -46,7 +46,7 @@
       	<h3><a href="../innovation/index.php">Innovation</a></h3>
       	<h3><a href="../8/internet-safety-expectations.php">Internet Safety and Expectations</a></h3>
       	<h3><a href="https://modularmavericks.weebly.com/" target="_blank">Modular Mavericks</a></h3>
-      	<h3><a href=" http://aswan3.weebly.com/ " target="_blank">My Educator Portfolio and Blog</a></h3>
+      	<h3><a href=" http://aswan3.weebly.com/ " target="_blank">My Educator Blog</a></h3>
       	<h3><a href="https://www.youtube.com/channel/UCeDYI8SPGDxjV7lHPmf607g" target="_blank">My YouTube Channel</a></h3>
       	<h3><a href="../7/pixlr.php">PIXLR</a></h3>
 	</section>
